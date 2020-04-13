@@ -1,8 +1,6 @@
 package com.example.springboot;
 
-import java.util.Arrays;
-
-import com.example.springboot.controllers.UploadController;
+import com.example.springboot.controller.UploadController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
