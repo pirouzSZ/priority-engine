@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 @SpringBootApplication
-@ComponentScan(basePackageClasses= UploadController.class)
+@ComponentScan(basePackages= ("com.example.springboot.controllers"))
 public class Application {
 
 	public static void main(String[] args) {
