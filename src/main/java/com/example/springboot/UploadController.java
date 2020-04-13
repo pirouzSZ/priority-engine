@@ -1,4 +1,4 @@
-package com.example.springboot.controller;
+package com.example.springboot;
 
 import com.example.springboot.domains.Case;
 import com.opencsv.bean.CsvToBean;
