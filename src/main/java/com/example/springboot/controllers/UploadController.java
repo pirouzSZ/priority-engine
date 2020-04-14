@@ -17,7 +17,7 @@ import java.util.List;
 @Controller
 public class UploadController {
 
-    //@GetMapping("/")
+    @GetMapping("/")
     public String index() {
         return "index";
     }
